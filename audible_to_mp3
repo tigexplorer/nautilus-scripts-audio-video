@@ -9,9 +9,9 @@
 # You need to be running Nautilus 1.0.3+ to use scripts.
 # Install for local user in ~/.local/share/nautilus/scripts
 # To install  for all users, type:
-# sudo cp audible_to_mp3.sh /usr/share/nautilus-scripts
-# sudo chmod +x /usr/share/nautilus-scripts/audible_to_mp3.sh
-# sudo ln -s /usr/share/nautilus-scripts/audible_to_mp3.sh ~/.local/share/nautilus/scripts/audible_to_mp3
+# sudo cp audible_to_mp3.sh "/usr/share/nautilus-scripts/audible to mp3"
+# sudo chmod +x "/usr/share/nautilus-scripts/audible to mp3"
+# sudo ln -s "/usr/share/nautilus-scripts/audible to mp3" "~/.local/share/nautilus/scripts/audible to mp3"
 #
 # dependent on: ffmpeg
 #
